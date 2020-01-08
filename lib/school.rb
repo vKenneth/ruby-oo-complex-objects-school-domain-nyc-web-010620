@@ -18,7 +18,7 @@ hash {"new_key" ["new_value_for_value_array"]}
  school.grade(9)
  school.sort
 
-school.add_student_age ("Zack Morris" age:9)
-school.add_student_age ("AC Slater" age:9)
-school.add_student_age ("Kelly Kapowski" age:10)
-school.add_student_age ("Screech" age:11)
+school.add_student_age ("Zack Morris" 9)
+school.add_student_age ("AC Slater" 9)
+school.add_student_age ("Kelly Kapowski" 10)
+school.add_student_age ("Screech" 11)
