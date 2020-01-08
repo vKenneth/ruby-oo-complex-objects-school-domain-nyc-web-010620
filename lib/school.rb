@@ -1,4 +1,4 @@
-school = School.new("Memorial High School")
+school = School.new("Bayside High School")
 def initialize(roster)
   @roster = roster
 end
