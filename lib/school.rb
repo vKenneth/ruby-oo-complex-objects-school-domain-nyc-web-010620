@@ -18,8 +18,8 @@ hash {"new_key" ["new_value_for_value_array"]}
  school.grade(9)
  school.sort
 
-school.add_student_grade ("Zack Morris" 9)
-school.add_student_grade ("AC Slater" 9)
-school.add_student_grade ("Kelly Kapowski" 10)
-school.add_student_grade ("Screech" 11)
+school.add_student_grade ("Zack Morris")
+school.add_student_grade ("AC Slater")
+school.add_student_grade ("Kelly Kapowski")
+school.add_student_grade ("Screech")
 
