@@ -17,5 +17,4 @@ hash {"new_key" ["new_value_for_value_array"]}
  
  school.grade(9)
  school.sort
- 
- school.add_student_age("Zack Moris" age:9)
+
